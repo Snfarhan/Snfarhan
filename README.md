@@ -1,7 +1,12 @@
-<!-- Put banner.svg in your repo root and uncomment the next line to show it -->
-<!-- <img src="banner.svg" alt="Muhammad Farhan — AI & Full-Stack Developer" width="100%"> -->
+<p align="center">
+  <img src="banner.png" alt="Cloudy Night Banner" width="100%">
+</p>
 
 # 👋 Hi — I’m Muhammad Farhan
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" alt="Floating Astronaut">
+</p>
 
 **AI / ML Engineer • Full-Stack Developer • IoT Enthusiast**  
 📍 Dubai, United Arab Emirates | 🎓 B.Tech (Computer Science), Class of 2025 — GPA 9.46/10
