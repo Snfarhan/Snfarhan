@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Cloudy Night Banner" width="100%">
-</p>
 
 # 👋 Hi — I’m Muhammad Farhan
 
