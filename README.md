@@ -1,10 +1,6 @@
 
 # 👋 Hi — I’m Muhammad Farhan
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" alt="Floating Astronaut">
-</p>
-
 **AI / ML Engineer • Full-Stack Developer • IoT Enthusiast**  
 📍 Dubai, United Arab Emirates | 🎓 B.Tech (Computer Science), Class of 2025 — GPA 9.46/10
 
