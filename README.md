@@ -152,7 +152,6 @@ I'm passionate about creating **real-world intelligent systems** that solve actu
 I'm actively seeking opportunities in:
 
 - **🤖 AI/ML Engineering roles** - Building production AI systems
-- **🔬 Applied Research positions** - Pushing the boundaries of AI applications  
 - **🚀 Full-Stack roles with AI focus** - Creating intelligent web applications
 - **📊 Data-driven backend systems** - Scalable, intelligent infrastructure
 
